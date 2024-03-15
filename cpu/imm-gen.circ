@@ -100,7 +100,7 @@
       <a name="width" val="3"/>
     </comp>
     <comp lib="0" loc="(350,410)" name="Constant">
-      <a name="value" val="0x19"/>
+      <a name="value" val="0x14"/>
       <a name="width" val="5"/>
     </comp>
     <comp lib="0" loc="(390,360)" name="Tunnel">
@@ -126,7 +126,7 @@
       <a name="width" val="32"/>
     </comp>
     <comp lib="3" loc="(470,370)" name="Shifter">
-      <a name="shift" val="lr"/>
+      <a name="shift" val="ar"/>
       <a name="width" val="32"/>
     </comp>
     <comp lib="5" loc="(1010,90)" name="Text">
