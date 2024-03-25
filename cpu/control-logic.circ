@@ -453,7 +453,7 @@
       <a name="width" val="5"/>
     </comp>
     <comp lib="0" loc="(220,1540)" name="Tunnel">
-      <a name="label" val="fuct3_01"/>
+      <a name="label" val="funct3_01"/>
       <a name="width" val="2"/>
     </comp>
     <comp lib="0" loc="(220,1570)" name="Tunnel">
@@ -552,8 +552,8 @@
     </comp>
     <comp lib="0" loc="(440,1410)" name="Tunnel">
       <a name="facing" val="east"/>
-      <a name="label" val="opcode23"/>
-      <a name="width" val="3"/>
+      <a name="label" val="opcode_23"/>
+      <a name="width" val="2"/>
     </comp>
     <comp lib="0" loc="(440,1510)" name="Tunnel">
       <a name="facing" val="east"/>
@@ -570,7 +570,8 @@
       <a name="label" val="opcode_6"/>
     </comp>
     <comp lib="0" loc="(450,1430)" name="Constant">
-      <a name="width" val="3"/>
+      <a name="value" val="0x3"/>
+      <a name="width" val="2"/>
     </comp>
     <comp lib="0" loc="(450,1530)" name="Constant">
       <a name="value" val="0x2"/>
@@ -1007,7 +1008,7 @@
       <a name="label" val="funct3_01_11"/>
     </comp>
     <comp lib="0" loc="(860,1420)" name="Tunnel">
-      <a name="label" val="opcode_45_10"/>
+      <a name="label" val="funct3_01_10"/>
     </comp>
     <comp lib="0" loc="(860,1460)" name="Tunnel">
       <a name="label" val="funct3_01_01"/>
@@ -1175,7 +1176,7 @@
       <a name="select_enc" val="6"/>
     </comp>
     <comp lib="3" loc="(490,1420)" name="Comparator">
-      <a name="width" val="3"/>
+      <a name="width" val="2"/>
     </comp>
     <comp lib="3" loc="(490,1520)" name="Comparator">
       <a name="width" val="2"/>
