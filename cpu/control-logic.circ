@@ -1233,36 +1233,47 @@
       <a name="width" val="3"/>
     </comp>
     <comp lib="3" loc="(440,1420)" name="Comparator">
+      <a name="mode" val="unsigned"/>
       <a name="width" val="7"/>
     </comp>
     <comp lib="3" loc="(440,1470)" name="Comparator">
+      <a name="mode" val="unsigned"/>
       <a name="width" val="7"/>
     </comp>
     <comp lib="3" loc="(440,1520)" name="Comparator">
+      <a name="mode" val="unsigned"/>
       <a name="width" val="7"/>
     </comp>
     <comp lib="3" loc="(440,1570)" name="Comparator">
+      <a name="mode" val="unsigned"/>
       <a name="width" val="7"/>
     </comp>
     <comp lib="3" loc="(440,1620)" name="Comparator">
+      <a name="mode" val="unsigned"/>
       <a name="width" val="7"/>
     </comp>
     <comp lib="3" loc="(440,1700)" name="Comparator">
+      <a name="mode" val="unsigned"/>
       <a name="width" val="7"/>
     </comp>
     <comp lib="3" loc="(440,1780)" name="Comparator">
+      <a name="mode" val="unsigned"/>
       <a name="width" val="7"/>
     </comp>
     <comp lib="3" loc="(670,1450)" name="Comparator">
+      <a name="mode" val="unsigned"/>
       <a name="width" val="7"/>
     </comp>
     <comp lib="3" loc="(670,1500)" name="Comparator">
+      <a name="mode" val="unsigned"/>
       <a name="width" val="7"/>
     </comp>
     <comp lib="3" loc="(670,1550)" name="Comparator">
+      <a name="mode" val="unsigned"/>
       <a name="width" val="7"/>
     </comp>
     <comp lib="3" loc="(670,1600)" name="Comparator">
+      <a name="mode" val="unsigned"/>
       <a name="width" val="7"/>
     </comp>
     <comp lib="4" loc="(720,420)" name="ROM">
