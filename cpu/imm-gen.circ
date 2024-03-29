@@ -109,6 +109,10 @@
       <a name="label" val="ImmSel"/>
       <a name="width" val="3"/>
     </comp>
+    <comp lib="0" loc="(1250,360)" name="Tunnel">
+      <a name="label" val="Immediate"/>
+      <a name="width" val="32"/>
+    </comp>
     <comp lib="0" loc="(200,160)" name="Pin">
       <a name="appearance" val="classic"/>
       <a name="label" val="Instruction"/>
@@ -562,6 +566,7 @@
     <wire from="(1130,360)" to="(1130,440)"/>
     <wire from="(1130,360)" to="(1170,360)"/>
     <wire from="(1190,400)" to="(1190,450)"/>
+    <wire from="(1210,360)" to="(1250,360)"/>
     <wire from="(200,160)" to="(220,160)"/>
     <wire from="(200,230)" to="(220,230)"/>
     <wire from="(220,100)" to="(220,140)"/>
