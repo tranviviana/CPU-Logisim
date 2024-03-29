@@ -458,7 +458,7 @@
     </comp>
     <comp lib="0" loc="(740,540)" name="Splitter">
       <a name="appear" val="center"/>
-      <a name="bit0" val="none"/>
+      <a name="bit0" val="4"/>
       <a name="bit1" val="3"/>
       <a name="bit10" val="2"/>
       <a name="bit11" val="1"/>
