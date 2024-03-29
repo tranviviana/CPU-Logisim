@@ -1209,21 +1209,27 @@
       <a name="select_enc" val="6"/>
     </comp>
     <comp lib="3" loc="(170,1700)" name="Comparator">
+      <a name="mode" val="unsigned"/>
       <a name="width" val="3"/>
     </comp>
     <comp lib="3" loc="(170,1740)" name="Comparator">
+      <a name="mode" val="unsigned"/>
       <a name="width" val="3"/>
     </comp>
     <comp lib="3" loc="(170,1780)" name="Comparator">
+      <a name="mode" val="unsigned"/>
       <a name="width" val="3"/>
     </comp>
     <comp lib="3" loc="(170,1820)" name="Comparator">
+      <a name="mode" val="unsigned"/>
       <a name="width" val="3"/>
     </comp>
     <comp lib="3" loc="(170,1860)" name="Comparator">
+      <a name="mode" val="unsigned"/>
       <a name="width" val="3"/>
     </comp>
     <comp lib="3" loc="(170,1900)" name="Comparator">
+      <a name="mode" val="unsigned"/>
       <a name="width" val="3"/>
     </comp>
     <comp lib="3" loc="(440,1420)" name="Comparator">
@@ -1290,7 +1296,7 @@
       <a name="font" val="SansSerif plain 25"/>
       <a name="text" val="I TYPE"/>
     </comp>
-    <comp lib="5" loc="(53,2948)" name="Text">
+    <comp lib="5" loc="(50,2945)" name="Text">
       <a name="font" val="SansSerif plain 25"/>
       <a name="text" val="B TYPE"/>
     </comp>
