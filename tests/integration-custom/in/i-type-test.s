@@ -6,4 +6,4 @@ slli ra ra 4 #ra = 01 << 4
 srli ra ra 3 #ra = 10000 >> 2
 srai ra ra 1 #ra = 100 >> 1
 slti ra ra 1
-and ra ra 0 
+andi ra ra 0 

@@ -1,3 +1,5 @@
+
+add t0 x0 x0
 addi t0 x0 5
 addi t2 x0 5
 addi s0 x0 2
